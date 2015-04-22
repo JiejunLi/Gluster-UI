@@ -1,2 +1,2 @@
-# Gluster-UI
+gluster-UI
 user can use UI to operation Glusterfs, such as create/delete volume...
