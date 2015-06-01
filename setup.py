@@ -15,7 +15,7 @@ from distutils.core import setup
 setup(
         name         = "GlusterUi",
         version      = "1.0",
-        url          = "https://github.com/JiejunLi/Gluster-UI",
+        url          = "https://github.com/JiejunLi/glusterUI",
         author       = "alljun Lee",
         author_email = "lijj@cloud-times.com",
         packages     = ['glusterui'],
